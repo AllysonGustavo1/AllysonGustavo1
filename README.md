@@ -10,7 +10,7 @@ Check out my portfolio [here](https://allysongustavo1.github.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allyson23_)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=allysongustavo&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allysongustavo&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=allysongustavo1&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allysongustavo1&theme=neon&hide_border=false"  width="400px" />
 
 
 
