@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Allyson Gustavo, an Information Technology student at UFRN and a technician in Electronics by IFRN.
+I'm Allyson Gustavo, an Information Technology graduate from UFRN, currently pursuing Software Engineering. I'm also a technician in Electronics by IFRN.
 Check out my portfolio [here](https://allysongustavo1.github.io/)
 
 # 💻 Tech Stack
